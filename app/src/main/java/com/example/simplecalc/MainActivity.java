@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = "CalculatorActivity";
 
     private Calculator mCalculator;
-
+    //test comment
     private EditText mOperandOneEditText;
     private EditText mOperandTwoEditText;
 
